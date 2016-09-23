@@ -1,7 +1,7 @@
 # JavaScript1
 
-Excercie in Javascript thrid semester - CPH Business Lyngby
+Exercise in Javascript thrid semester - CPH Business Lyngby
 
-See pdf for Excercie
+See pdf for Exercise
 
 Created 19 sep - 23 sep
